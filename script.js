@@ -28,6 +28,16 @@ const pokemones = [
     hp: 45,
     hp_total: 45,
     evolucion: true,
+    
+  }, {
+    nombre: "Franking",
+    nivel: 18,
+    tipo: ["Planta", "Veneno"],
+    foto: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+    hp: 80,
+    hp_total: 80,
+    evolucion: true,
+    
   },
 ];
 
