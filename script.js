@@ -29,6 +29,15 @@ const pokemones = [
     hp_total: 45,
     evolucion: true,
   },
+  {
+    nombre: "Squirtle",
+    nivel: 15,
+    tipo: ["Agua"],
+    foto: "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+    hp: 45,
+    hp_total: 45,
+    evolucion: true,
+  },
 ];
 
 do {
